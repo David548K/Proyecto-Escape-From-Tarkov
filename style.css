@@ -1,0 +1,95 @@
+/*   Valores Globales   */
+@font-face {
+    font-family: 'EscapeFromTarkov';
+    src: url(arc/WorkSans-Regular.ttf);
+}
+body{
+    background: url(img/Background.jpg) center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+*{
+    font-family: 'EscapeFromTarkov';
+    scroll-behavior: smooth;
+}
+
+
+
+
+
+/*   Modificando Header   */
+.header{
+    padding: 20px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: #000000;
+    color: #FFFFFF;
+}
+.header__img{
+    width: 28%;
+    filter: drop-shadow(0 0 5px #FFFFFF);
+}
+
+
+
+
+
+/*   Modificando Main   */
+.main{
+    line-height: 1.5;
+    margin-top: 90px;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    color: #FFFFFF;
+}
+.main__Background{
+    padding: 30px;
+    background-color: #0000009f;
+}
+.main__PrimerContenido{
+    margin: 20px;
+    width: 70%;
+    text-align: center;
+}
+.main__PrimerContenido-h1{
+    font-size: 38px;
+}
+.main__SegundoContenido{
+    margin: 20px;
+    width: 70%;
+    text-align: center;
+}
+.main__SegundoContenido-h2{
+    font-size: 38px;
+}
+
+
+
+
+
+/*   Modificando Footer   */
+.footer{
+    line-height: 2.5;
+    padding: 20px;
+    margin-top: 50px;
+    width: 100%;
+    display: inline-block;
+    text-align: center;
+    background-color: #000000;
+    color: #FFFFFF;
+}
+.footer__p-a{
+    text-decoration: none;
+    color: #FFFFFF;
+}
+.footer__p-a:hover{
+    text-shadow: 0 0 10px #FFFFFF, 0 0 5px #FFFFFF;
+}
