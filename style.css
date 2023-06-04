@@ -100,226 +100,226 @@ h2{
 /*   Modificando Las Cajas   */
 /*   Bases   */
 #GruposDeCombate{
-    background: url(https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/d1/Skill_practical_covertmovement.png/revision/latest/scale-to-width-down/70?cb=20170329164733); 
+    background: url(img/Bases/Grupos-Combate.jpg); 
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
 }
 #ModosDeJuego{
-    background: url(https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/6e/Skill_special_usec_longrangeoptics.png/revision/latest/scale-to-width-down/70?cb=20170329164526);
+    background: url(img/Bases/Modos-Juego.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
 }
 #ComoJugar{
-    background: url(https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/8/87/Skill_practical_cleanoperations.png/revision/latest/scale-to-width-down/70?cb=20190406194415);
+    background: url(img/Bases/Como-Jugar.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
 }
 #MapaDeTarkov{
-    background: url(https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/33/Skill_practical_basicweaponmodding.png/revision/latest/scale-to-width-down/70?cb=20170329164743);
+    background: url(img/Bases/Mapa-Tarkov.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
 }
 #FechaDeLanzamiento{
-    background: url(https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/8/88/Skill_special_usec_negotiations.png/revision/latest/scale-to-width-down/70?cb=20170329164520);
+    background: url(img/Bases/Fecha-Lanzamiento.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
 }
 #Requisitos{
-    background: url(https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/52/Skill_practical_electronichacking.png/revision/latest/scale-to-width-down/70?cb=20170329164727);
+    background: url(img/Bases/Requisitos.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
 }
 /*   Sistemas   */
 #Balistica{
-    background: url(https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/67/Skill_physical_vitality.png/revision/latest/scale-to-width-down/70?cb=20170329164811);
+    background: url(img/Sistemas/Balistica.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
 }
 #Habilidades{
-    background: url(https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/98/Skill_mental_intellect.png/revision/latest/scale-to-width-down/70?cb=20170329164902);
+    background: url(img/Sistemas/Habilidades.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
 }
 #Personaje{
-    background: url(https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/7d/Skill_mental_charisma.png/revision/latest/scale-to-width-down/70?cb=20170329164907);
+    background: url(img/Sistemas/Personaje.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
 }
 #SistemaDeSalud{
-    background: url(https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/37/Skill_practical_fieldmedical.png/revision/latest/scale-to-width-down/70?cb=20170329164716);
+    background: url(img/Sistemas/Sistema\ Salud.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
 }
 #Refugio{
-    background: url(https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/19/Hideout_icon.png/revision/latest/scale-to-width-down/70?cb=20230423150213);
+    background: url(img/Sistemas/Refugio.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
 }
 #Saqueo{
-    background: url(https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/49/Skill_practical_search.png/revision/latest/scale-to-width-down/70?cb=20170329164638);
+    background: url(img/Sistemas/Saqueo.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
 }
 #Misiones{
-    background: url(https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/fb/Skill_practical_lockpicking.png/revision/latest/scale-to-width-down/70?cb=20170329164654);
+    background: url(img/Sistemas/Misiones.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
 }
 #Comercio{
-    background: url(https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/3f/Skill_practical_barter.png/revision/latest/scale-to-width-down/70?cb=20170329164754);
+    background: url(img/Sistemas/Comercio.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
 }
 #MaestriaDeArmas{
-    background: url(https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/b2/Skill_combat_weapondrawing.png/revision/latest/scale-to-width-down/70?cb=20170329164923);
+    background: url(img/Sistemas/Maestria\ Armas.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
 }
 /*   Equipamiento y Objetos   */
 #Municion{
-    background: url(https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/1b/Skill_practical_magazineloadingplaceholder.png/revision/latest/scale-to-width-down/70?cb=20180502024916);
+    background: url(img/EquipamientosObjetos/Municion.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
 }
 #Armaduras{
-    background: url(https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/f3/Skill_practical_heavyarmor.png/revision/latest/scale-to-width-down/70?cb=20170329164705);
+    background: url(img/EquipamientosObjetos/Armaduras.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
 }
 #Mochilas{
-    background: url(https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/63/Skill_physical_endurance.png/revision/latest/scale-to-width-down/70?cb=20170329164840);
+    background: url(img/EquipamientosObjetos/Mochilas.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
 }
 #Chalecos{
-    background: url(https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/2b/Skill_practical_equipmentmanagement.png/revision/latest/scale-to-width-down/70?cb=20170329164721);
+    background: url(img/EquipamientosObjetos/Chalecos\ Tacticos.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
 }
 #Contenedores{
-    background: url(https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/57/Skill_mental_attention.png/revision/latest/scale-to-width-down/70?cb=20170329164913);
+    background: url(img/EquipamientosObjetos/Contenedores.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
 }
 #Gafas{
-    background: url(https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/bd/Skill_practical_nightoperations.png/revision/latest/scale-to-width-down/70?cb=20170329164650);
+    background: url(img/EquipamientosObjetos/Gafas.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
 }
 #CoberturaFacial{
-    background: url(https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/f5/Skill_practical_sniping.png/revision/latest/scale-to-width-down/70?cb=20170329164621);
+    background: url(img/EquipamientosObjetos/Cobertura\ Facial.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
 }
 #Auriculares{
-    background: url(https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/18/Skill_combat_recoilcontrol.png/revision/latest/scale-to-width-down/70?cb=20170329165002);
+    background: url(img/EquipamientosObjetos/Auriculares.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
 }
 #AccesorioCabeza{
-    background: url(https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/14/Skill_mental_perception.png/revision/latest/scale-to-width-down/70?cb=20170329164851);
+    background: url(img/EquipamientosObjetos/Accesorios\ Cabeza.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
 }
 #LlavesInteligencia{
-    background: url(https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/22/Skill_practical_taskperformance.png/revision/latest/scale-to-width-down/70?cb=20170329164616);
+    background: url(img/EquipamientosObjetos/Llaves\ Inteligencia.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
 }
 #Botin{
-    background: url(https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/c/ca/Skill_practical_freetrading.png/revision/latest/scale-to-width-down/70?cb=20170329164711);
+    background: url(img/EquipamientosObjetos/Botin.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
 }
 #Medicamentos{
-    background: url(https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/c/cd/Skill_practical_basicmedical.png/revision/latest/scale-to-width-down/70?cb=20170329164749);
+    background: url(img/EquipamientosObjetos/Medicamentos.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
 }
 #Proviciones{
-    background: url(https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/7e/Skill_physical_metabolism.png/revision/latest/scale-to-width-down/70?cb=20170329164823);
+    background: url(img/EquipamientosObjetos/Provisiones.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
 }
 #RopaTactica{
-    background: url(https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/2e/Skill_special_bear_authority.png/revision/latest/scale-to-width-down/70?cb=20170329164554);
+    background: url(img/EquipamientosObjetos/Ropa\ Tactica.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
 }
 #AccesoriosArma{
-    background: url(https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/6c/Skill_practical_weapontreatment.png/revision/latest/scale-to-width-down/70?cb=20170329164611);
+    background: url(img/EquipamientosObjetos/Accesorio\ Armas.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
 }
 #Armas{
-    background: url(https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/42/Skill_special_bear_aksystems.png/revision/latest/scale-to-width-down/70?cb=20170329164605);
+    background: url(img/EquipamientosObjetos/Armas.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
 }
 /*   Facciones   */
 #Bear{
-    background: url(https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/d8/Skill_special_bear_assaultoperations.png/revision/latest/scale-to-width-down/70?cb=20170329164600);
+    background: url(img/Facciones/Bear.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
 }
 #Usec{
-    background: url(https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/e9/Skill_special_usec_tactics.png/revision/latest/scale-to-width-down/70?cb=20170329164515);
+    background: url(img/Facciones/Usec.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
 }
 #Scavs{
-    background: url(https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/1e/Skill_practical_shadowconnections.png/revision/latest/scale-to-width-down/70?cb=20170329164632);
+    background: url(img/Facciones/Scavs.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
 }
 #ScavRider{
-    background: url(https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/8/89/Skill_practical_silentoperations.png/revision/latest/scale-to-width-down/70?cb=20170329164627);
+    background: url(img/Facciones/Scav\ Rider.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
 }
 #Cultistas{
-    background: url(https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/0f/Cult.png/revision/latest/scale-to-width-down/70?cb=20201226220428);
+    background: url(img/Facciones/Cultistas.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
 }
 #Rogues{
-    background: url(https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/2f/RogueIcon.png/revision/latest/scale-to-width-down/70?cb=20230424010743);
+    background: url(img/Facciones/Rogues.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
