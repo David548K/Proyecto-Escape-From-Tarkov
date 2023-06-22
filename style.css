@@ -81,7 +81,7 @@ h2{
     padding: 20px;
     text-decoration: none;
     color: #FFFFFF;
-    text-shadow: 0 0 5px #000000;
+    text-shadow: 0 0 10px #000000, 0 0 10px #000000;
 }
 .main__panel-contenedor-cajablur{
     display: flex;
@@ -90,6 +90,10 @@ h2{
     text-align: center;
     width: 100%;
     height: 100%;
+    transition: all .5s;
+}
+.main__panel-contenedor-cajablur:hover{
+    background-color: #0000009F;
     backdrop-filter: blur(3px);
 }
 
